@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Aluminum Predictive Maintenance</title>
+  <desc id="d">Flagging bad decoating cycles before they cost thousands.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1b33"/><stop offset="1" stop-color="#16367a"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <g transform="translate(96 88)"><circle cx="72" cy="72" r="72" fill="#ffffff" fill-opacity=".08"/><g fill="none" stroke="#fff" stroke-width="9" stroke-linejoin="round"><circle cx="72" cy="72" r="16"/><path d="M72 30v12M72 102v12M30 72h12M102 72h12M42 42l9 9M93 93l9 9M42 102l9-9M93 51l9-9"/><circle cx="72" cy="72" r="34"/></g></g>
+  <text x="300" y="158" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Aluminum Predictive Maintenance</text>
+  <text x="302" y="208" fill="#c7d6ee" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="26">Flagging bad decoating cycles before they cost thousands.</text>
+  <g transform="translate(1078 232) scale(.55)" opacity=".9"><rect x="0" y="70" width="16" height="40" rx="5" fill="#7cc4ff"/><rect x="26" y="52" width="16" height="58" rx="5" fill="#7cc4ff"/><rect x="52" y="62" width="16" height="48" rx="5" fill="#7cc4ff"/><rect x="78" y="10" width="16" height="100" rx="5" fill="#ff7b72"/><rect x="104" y="58" width="16" height="52" rx="5" fill="#7cc4ff"/><rect x="130" y="48" width="16" height="62" rx="5" fill="#7cc4ff"/><rect x="156" y="66" width="16" height="44" rx="5" fill="#7cc4ff"/></g>
+</svg>
